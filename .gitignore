@@ -1,0 +1,11 @@
+*.class
+*.jar
+*.war
+*.ear
+
+*.bak
+*.swp
+
+/project/project/target/
+/project/target/
+/target/
